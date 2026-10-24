@@ -1,5 +1,5 @@
 name: exchange_rate
-description: A professional task manager built with Flutter.
+description: "محول العملات اللحظي"
 publish_to: 'none'
 version: 1.0.0+1
 
@@ -9,7 +9,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  shared_preferences: ^2.2.2
+  http: ^1.2.0
 
 flutter:
   uses-material-design: true
